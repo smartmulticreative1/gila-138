@@ -1,15 +1,35 @@
-GILA 138 adalah mobile gaming application (casino) berasal dari thailand dan proyek ingin mengubah dari layanan website menjadi aplikasi dengan versi PWA atau progressive web app.
-Berikut fitur yang ingin dikembangkan:
+# gila138
 
-GILA APPLICATION:
+This template should help get you started developing with Vue 3 in Vite.
 
-1.	VPN DIRECT BUTTON TO GAMING APP
-2.	DASHBOARD PANEL PUSH NOTIFICATION DYNAMIC
-3.	SPIN FEATURE IN GAMING APP
+## Recommended IDE Setup
 
-A.	Scope pengembangan
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-1.	Pengembangan VPN berupa format (.apk) menggunakan metode PWA. Yaitu dimaksud dengan tampilan mirip seperti aplikasi akan tetapi meng-akses tampilan pada browser.
-2.	Menjadikan website yang mobile gaming dari browser menjadi PWA dan dapat unduh format (.apk) Yang dimana tampilan berbentuk website tapi menyerupai aplikasi. 
-3.	Fitur Auto Spin pada saat masuk di dalam mobile gaming “Floating”
-4.	Push notifikasi dengan menggunakan Panel Backoffice (dashboard) yang dimana dapat mengirimkan pesan apapun kepada user.
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```

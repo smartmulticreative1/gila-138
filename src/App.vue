@@ -5,8 +5,8 @@ import { onMounted } from 'vue'
 import { initFlowbite } from 'flowbite'
 onMounted(() => {
   document.addEventListener('DOMContentLoaded', () => {
-    initFlowbite();
-  });
+    initFlowbite()
+  })
 })
 const isImgColored = ref(false)
 
